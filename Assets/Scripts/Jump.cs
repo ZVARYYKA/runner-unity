@@ -13,7 +13,7 @@ public class Jump : MonoBehaviour
     public bool ReadyGround;
     public int ForceJump;
     public int score;
-    public TextMesh scoreT;
+    public Text scoreT;
     
     
     void Start()
